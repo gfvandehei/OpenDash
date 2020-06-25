@@ -1,0 +1,6 @@
+[submodule "NodeCarSensorAPI"]
+	path = NodeCarSensorAPI
+	url = https://github.com/gfvandehei/NodeCarSensorAPI.git
+[submodule "OpendashSensors"]
+	path = OpendashSensors
+	url = https://github.com/gfvandehei/OpendashSensors.git
